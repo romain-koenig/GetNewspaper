@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: latin-1 -*-
 
 # Licensed under the Python License (see http://www.python.org/psf/license/)
 # Copyright (C) 2010-2017 Romain KOENIG <romain.koenig@gmail.com>
