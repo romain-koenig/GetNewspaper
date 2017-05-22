@@ -1,0 +1,2 @@
+# GetNewspaper
+Download daily newspaper
